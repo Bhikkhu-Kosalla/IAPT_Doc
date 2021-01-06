@@ -1,4 +1,3 @@
-[![](https://mermaid.ink/img/
 
 <div class="mermaid">
 graph TD;
