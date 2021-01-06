@@ -3,7 +3,7 @@
 <div class="mermaid">
 graph TD;
 A(Selection of Text);
-B(3-Weeks Course Program);
+B(3 Weeks Course Program);
 C(Part of Traditional Pariyatti Content);
 D(Standard Class Template);
 E(Translation to be Proofread);
@@ -36,6 +36,6 @@ subgraph Stage Assessment
 I--Featured course rehearsal-->K;
 K--Teacher's speech-->L;
 K--Student's speech-->M;
-M--Audience (Parents)-->N;
+M--Audience_Parents-->N;
 end
 </div>
