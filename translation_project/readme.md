@@ -11,3 +11,11 @@
 
 # 视频链接
 
+- 会议视频链接
+	- [百度网盘链接](https://pan.baidu.com/s/1DTsUeTfx_bj3OgIPuVlhkA)  提取码：pali 
+- 视频播放链接
+https://youtu.be/QnfTYpCVmEk
+
+https://youtu.be/poJ6lRtgq2A
+
+https://youtu.be/jEJ1qu7BLBw
